@@ -35,7 +35,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-### 🧠 Author
+###  Author
 **Chaimae ECH-CHARFI**  
 Software Engineer | Full-Stack Developer  
 🔗 [Portfolio](https://echcharfi-chaimae.github.io/portfolio_ECHCHARFI/)
