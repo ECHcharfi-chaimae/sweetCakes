@@ -1,6 +1,6 @@
 # Sweet Cakes
 
-This project showcases a cake design platform built with React.js and Spring Boot. It allows users to personalize cakes by choosing flavors, shapes, colors, and decorations. The platform ensures seamless interaction between clients and bakers, simplifying the entire ordering process from customization to delivery.
+This project showcases a cake design platform built with React.js. It allows users to personalize cakes by choosing flavors, shapes, colors, and decorations. The platform ensures seamless interaction between clients and bakers, simplifying the entire ordering process from customization to delivery.
 
 
 # Getting Started with Create React App
@@ -33,3 +33,10 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+### 🧠 Author
+**Chaimae ECH-CHARFI**  
+Software Engineer | Full-Stack Developer  
+🔗 [Portfolio](https://echcharfi-chaimae.github.io/portfolio_ECHCHARFI/)
+
